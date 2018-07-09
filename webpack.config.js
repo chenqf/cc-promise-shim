@@ -1,15 +1,19 @@
 const fs = require('fs');
 const path = require('path');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin')
 const webpack = require('webpack');
 const resolve = path.resolve;
 
 module.exports = {
     devtool: 'source-map',
-    entry: resolve(__dirname,'index.js'),
+    entry: {'index':resolve(__dirname,'index.js')},
     output: {
-        path: `/build`,
+        path: resolve(__dirname,'build'),
         filename: '[name].js'//将app文件夹中的两个js文件合并成build目录下的bundle.js文件
     },
+    plugins: [
+        new UglifyJSPlugin()
+    ],
     devServer: {
         historyApiFallback: true,
         contentBase: __dirname,

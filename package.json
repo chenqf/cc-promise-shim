@@ -2,7 +2,7 @@
   "name": "de-promise",
   "version": "0.0.1",
   "description": "a promise shim",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
