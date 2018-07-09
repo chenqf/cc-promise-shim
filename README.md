@@ -35,10 +35,10 @@ This creates and returns a new promise.  `fn` must be a function.  The `fn` func
 ### Static Functions
   These methods are invoked by calling `Promise.methodName`.
   
-####Promise.resolve(value)
+__Promise.resolve(value)__
 
-####Promise.reject(value)
+__Promise.reject(value)__
 
-####Promise.all(array)
+__Promise.all(array)__
 
-####Promise.race(array)
+__Promise.race(array)__
