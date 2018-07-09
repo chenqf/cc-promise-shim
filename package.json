@@ -1,6 +1,6 @@
 {
   "name": "cc-promise-shim",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "description": "a promise shim",
   "main": "build/index.js",
   "scripts": {
