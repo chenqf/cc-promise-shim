@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae5cacf-caa7-40dd-bbb2-44bf06f87f45" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/de-promise.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -691,7 +688,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531103974533</updated>
-      <workItem from="1531103975799" duration="2518000" />
+      <workItem from="1531103975799" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary=" a first commit">
       <created>1531104221316</created>
@@ -728,11 +725,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531106452613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" a first commit">
+      <created>1531106500497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531106500497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2518000" />
+    <option name="totallyTimeSpent" value="2537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
