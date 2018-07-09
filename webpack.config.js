@@ -8,6 +8,7 @@ module.exports = {
     devtool: 'source-map',
     entry: {'index':resolve(__dirname,'index.js')},
     output: {
+        libraryTarget: "commonjs2",
         path: resolve(__dirname,'build'),
         filename: '[name].js'//将app文件夹中的两个js文件合并成build目录下的bundle.js文件
     },

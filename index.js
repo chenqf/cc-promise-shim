@@ -9,7 +9,7 @@ class Promise{
 
 
 
-module.exports = {a:3,b:2};
+module.exports = {a:1,b:2};
 
 
 
