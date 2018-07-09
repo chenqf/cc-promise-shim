@@ -1,0 +1,24 @@
+{
+  "name": "de-promise",
+  "version": "0.0.1",
+  "description": "a promise shim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenqf/de-promise.git"
+  },
+  "keywords": [
+    "es6",
+    "promise",
+    "shim"
+  ],
+  "author": "chenqf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenqf/de-promise/issues"
+  },
+  "homepage": "https://github.com/chenqf/de-promise#readme"
+}
